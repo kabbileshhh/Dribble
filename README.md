@@ -267,10 +267,11 @@ index.html
 
 
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](<Screenshot 2025-10-15 110847.png>) 
+![alt text](<Screenshot 2025-10-15 110912.png>)
+![alt text](<Screenshot 2025-10-15 110931.png>)
+![alt text](<Screenshot 2025-10-15 110948.png>)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
